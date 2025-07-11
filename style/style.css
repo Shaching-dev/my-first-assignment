@@ -17,6 +17,7 @@
     font-weight: 900;
     font-size: 34px;
     color: #4E47FF;
+    cursor: pointer;
 
 }
 .p-btn {
@@ -113,20 +114,6 @@ font-size: 42px;
     padding-left: 20px;
     
 }
-
-.header-4 {
-    font-weight: bold;
-    font-size: 42px;
-    color: #252432;
-    margin-bottom: 0px;
- 
-}
-
-
-
-
-
-
 
 
 
