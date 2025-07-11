@@ -81,6 +81,7 @@ font-size: 42px;
     justify-content: space-around;
     align-items: center;
     padding-top: 50px;
+    margin-bottom: 100px;
 }
 .header-3 {
     font-weight: bold;
@@ -88,6 +89,16 @@ font-size: 42px;
     color: #252432;
     text-align: center;
 }
+
+.section-2 {
+background-color: #ecf6f7;
+padding-top: 20px;
+margin-right: 100px;
+margin-left: 100px;
+border-radius: 10px;
+}
+
+
 
 .user-details h1 {
     font-weight: bold;
@@ -103,7 +114,7 @@ font-size: 42px;
     justify-content: space-around;
     margin-left: 150px;
     margin-right: 150px;
-    background-color: #ecf6f7;
+ 
     border-radius: 24px;
 }
 .user-detail p {
