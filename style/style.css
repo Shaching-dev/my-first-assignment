@@ -227,6 +227,17 @@ font-size: 15px;
     padding-bottom: 50px;
     border-radius: 20px;
 }
+
+.parent-container h1 {
+    font-weight: bold;
+    font-size: 50px;
+    color: #4e4d57;
+}
+
+.parent-container p {
+    color: #b2a9a9;
+    font-size: 20px;
+}
 .parent-container img {
     width: 60%;
     border-radius: 20px;
