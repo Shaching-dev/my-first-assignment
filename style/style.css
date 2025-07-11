@@ -194,12 +194,22 @@ input[type=email]{
 }
 
 input[type=message]{
-    border: 1px solid #b2a9a9;
+    border: 1.5px solid #b2a9a9;
     border-radius: 4px;
     box-sizing: border-box;
     padding-bottom: 40px;
     width: 300px;
     margin-bottom: 20px;
+    height: 100px;
+}
+.last-input {
+    padding-left: 20px;
+    padding-top: 0px;
+}
+.last-input placeholder {
+    margin: 0px;
+    padding: 0px;
+    padding-top: 0;
 }
 .form-1 {
     margin-top: 100px;
